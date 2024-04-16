@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: HAJINFAM DEAL
+title: DASOM HOTDEAL
 
 # Your name to show in the footer
-author: HAJIN
+author: DASOM
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  HOME: "https://hajinfam.github.io/"
+  HOME: "https://dasomfam.github.io/"
   ♥ALIEXPRESS 비교 : "https://s.click.aliexpress.com/e/_DE59pjb"
   ♡COUPANG 비교: "https://link.coupang.com/a/bxF80o"
 
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: "<HAJINFAM 추천> 갓성비 HIT상품 추천"
+rss-description: "<DASOMFAM 매일매일 핫딜상품 공유> "
 
 ###########################
 # --- General options --- #
